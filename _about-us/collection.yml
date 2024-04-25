@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Subfolder of About Us/Example Page.md
       - Subfolder of About Us/.keep
